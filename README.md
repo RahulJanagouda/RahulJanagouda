@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulJanagouda
-- 👀 I’m interested in solving the problems using tech.
-- 🌱 I’m currently learning about leadership skills in tech
+- 👀 I am a tech enabler finding my next problem to solve.
+- 🌱 Currently I am sharpening my leadership skills
 
 <!---
 RahulJanagouda/RahulJanagouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
